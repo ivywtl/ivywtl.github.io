@@ -11,8 +11,11 @@ About Me
 &emsp;&emsp;&emsp;I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluorescence microscopy, and live cell imaging, my research explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as building tools to detect and discern different cancer amplicon structures.
 
 &emsp;&emsp;&emsp;My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: <br>
+
 &emsp;&emsp;&emsp;1) identifying unique features of ecDNA and understanding the mechanistic basis of ecDNA-driven activities, <br>
+
 &emsp;&emsp;&emsp;2) developing sequencing-based and imaging-based tools to detect and resolve cancer amplicon and ecDNA structures, and <br>
+
 &emsp;&emsp;&emsp;3) establishing near-isogenic cell line models for ecDNA studies and adapting FISH-based protocols to detect ecDNAs in human cancer cell lines, neurosphere, organoids and tissue samples.
 
 &emsp;&emsp;&emsp;Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 

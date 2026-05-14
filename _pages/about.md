@@ -41,4 +41,5 @@ Education Background
 
 Teaching Experience
 ======
-2019&emsp;&emsp;Lecturer in Clinical Microbiology, Caritas Institute of Higher Education Hong Kong (Now St. Francis University)
+2019&emsp;&emsp;Lecturer in Clinical Microbiology, Caritas Institute of Higher Education Hong Kong <br>
+&emsp;&emsp;&emsp;&emsp;(Now St. Francis University)

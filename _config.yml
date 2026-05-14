@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo_2026-05-13_16-48-25.jpg"
+  avatar           : "/images/photo_2026-05-13_16-48-25.jpg"
   name             : "Ivy Tsz-Lo Wong, Ph.D."
   pronouns         : "She/Her"  
   bio              : "Molecular and Cancer Biologist"

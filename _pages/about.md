@@ -20,7 +20,7 @@ Biography
 
 &emsp;&emsp;&emsp;Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 
 
-**Key Research Disciplines**: Cancer Genomics, Functional Genomics, Cytogenetics, Cancer Biology, Cancer Therapeutics, Advanced Microscopy
+**Key Research Disciplines**: Cancer Bioloigy, Cancer Genomics, Cytogenetics, Functional Genomics, Advanced Microscopy, Cancer Therapeutics
 
 Representative Publications
 ======

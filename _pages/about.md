@@ -12,7 +12,7 @@ Biography
 
 &emsp;&emsp;&emsp;My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: 1) identifying unique features of ecDNA and understanding the mechanistic basis of ecDNA-driven activities, 2) developing sequencing-based and imaging-based tools to detect and resolve cancer amplicon and ecDNA structures, 3) establishing near-isogenic cell line models for ecDNA studies and adapting FISH-based protocols to detect ecDNAs in human cancer cell lines, neurosphere, organoids and tissue samples.
 
-Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 
+&emsp;&emsp;&emsp;Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 
 
 **Key Research Disciplines**: Cancer Genomics, Functional Genomics, Cytogenetics, Cancer Biology, Cancer Therapeutics, Advanced Microscopy
 

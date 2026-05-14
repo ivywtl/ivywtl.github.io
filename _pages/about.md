@@ -21,15 +21,15 @@ Representative Publications
 **Research articles**
 1. Jens Luebeck\*, Ted Liefeld\*, **Ivy Tsz-Lo Wong**\*, Edwin Huang\*, ... , Paul S. Mischel, Jill Mesirov, Vineet Bafna. AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes. _Nature Methods_ (Accepted in principle) (2026).
 
-2. Siavash Raeisi Dehkordi\*, **Ivy Tsz-Lo Wong**\*, Jing Ni\*, ... , Jean Zhao, Paul S. Mischel, Vineet Bafna. Breakage fusion bridge cycles drive high oncogene copy number with moderate intratumoural heterogeneity. _Nature Communications_ (2025).
+2. Siavash Raeisi Dehkordi\*, **Ivy Tsz-Lo Wong**\*, Jing Ni\*, ... , Jean Zhao, Paul S. Mischel, Vineet Bafna. [Breakage fusion bridge cycles drive high oncogene copy number with moderate intratumoural heterogeneity](https://www.nature.com/articles/s41467-025-56670-8). _Nature Communications_ (2025).
 
 3. King L. Hung\*, Matthew G. Jones\*, **Ivy Tsz-Lo Wong**\*, Ellis J. Curtis\*, ... , Paul S. Mischel, Howard
-Y. Chang. Coordinated inheritance of extrachromosomal DNAs in cancer cells. _Nature_ (2024).
+Y. Chang. [Coordinated inheritance of extrachromosomal DNAs in cancer cells](https://www.nature.com/articles/s41586-024-07861-8). _Nature_ (2024).
 
 **Review articles**
-1. **Ivy Tsz-Lo Wong**\*, Chris Bailey\*, ... , Howard Y. Chang, Paul S. Mischel. A recipe for chaos: Extrachromosomal DNA (ecDNA) and the Hallmarks of Cancer. _Cell_ (2026).
+1. **Ivy Tsz-Lo Wong**\*, Chris Bailey\*, ... , Howard Y. Chang, Paul S. Mischel. [A recipe for chaos: Extrachromosomal DNA (ecDNA) and the Hallmarks of Cancer](https://www.cell.com/cell/fulltext/S0092-8674(26)00278-3). _Cell_ (2026).
 
-2. **Ivy Tsz-Lo Wong**\*, Hyerim Yi\*, Bruno Melilo, Ben Cravatt, Howard Y. Chang, Paul S. Mischel. Targeting extrachromosomal DNA in human cancers. _Nature Reviews Drug Discovery_ (2026).
+2. **Ivy Tsz-Lo Wong**\*, Hyerim Yi\*, Bruno Melilo, Ben Cravatt, Howard Y. Chang, Paul S. Mischel. [Targeting extrachromosomal DNA in human cancers](https://www.nature.com/articles/s41573-025-01369-0). _Nature Reviews Drug Discovery_ (2026).
 
 Education Background
 ======

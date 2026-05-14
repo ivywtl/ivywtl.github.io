@@ -8,9 +8,9 @@ redirect_from:
 ---
 Biography
 ======
-I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluoresecnece microscopy, and live cell imaging, my postdoctoral work explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as building tools to detect and discern different cancer amplicon structures.
+&emsp;I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluoresecnece microscopy, and live cell imaging, my postdoctoral work explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as building tools to detect and discern different cancer amplicon structures.
 
-My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: 1) identifying unique features of ecDNA and understanding the mechanistic basis of ecDNA-driven activities, 2) developing sequencing-based and imaging-based tools to detect and resolve cancer amplicon and ecDNA structures, 3) establishing near-isogenic cell line models for ecDNA studies and adapting FISH-based protocols to detect ecDNAs in human cancer cell lines, neurosphere, organoids and tissue samples.
+&emsp;My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: 1) identifying unique features of ecDNA and understanding the mechanistic basis of ecDNA-driven activities, 2) developing sequencing-based and imaging-based tools to detect and resolve cancer amplicon and ecDNA structures, 3) establishing near-isogenic cell line models for ecDNA studies and adapting FISH-based protocols to detect ecDNAs in human cancer cell lines, neurosphere, organoids and tissue samples.
 
 Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 
 
@@ -33,11 +33,11 @@ Y. Chang. [Coordinated inheritance of extrachromosomal DNAs in cancer cells](htt
 
 Education Background
 ======
-2017   Doctor of Philosophy, University of Hong Kong <br>
-2015   Visiting Research Student, Kings College London <br>
-2012   Master of Medical Science, University of Hong Kong <br>
-2011   Bachelor of Science (major in biochemistry, double minor in bioengineering and socical science), the Hong Kong University of Science and Technology<br>
+2017&emsp;&emsp;Doctor of Philosophy, University of Hong Kong <br>
+2015&emsp;&emsp;Visiting Research Student, Kings College London <br>
+2012&emsp;&emsp;Master of Medical Science, University of Hong Kong <br>
+2011&emsp;&emsp;Bachelor of Science (major in biochemistry, double minor in bioengineering and socical science), the Hong Kong University of Science and Technology<br>
 
 Teaching Experience
 ======
-2019   Lecturer (Clinical Microbiology), Caritas Institute of Higher Education Hong Kong (Now St. Francis University)
+2019&emsp;&emsp;Lecturer in Clinical Microbiology, Caritas Institute of Higher Education Hong Kong (Now St. Francis University)

@@ -36,7 +36,8 @@ Education Background
 2017&emsp;&emsp;Doctor of Philosophy, University of Hong Kong <br>
 2015&emsp;&emsp;Visiting Research Student, Kings College London <br>
 2012&emsp;&emsp;Master of Medical Science, University of Hong Kong <br>
-2011&emsp;&emsp;Bachelor of Science (major in biochemistry, double minor in bioengineering and socical science), the Hong Kong University of Science and Technology<br>
+2011&emsp;&emsp;Bachelor of Science, the Hong Kong University of Science and Technology<br>
+&emsp;&emsp;&emsp;&emsp;(Major in Biochemistry, Double Minor in Bioengineering and Socical Science)
 
 Teaching Experience
 ======

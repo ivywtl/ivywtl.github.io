@@ -35,7 +35,7 @@ Y. Chang. [Coordinated inheritance of extrachromosomal DNAs in cancer cells](htt
 **Review articles**
 1. **Ivy Tsz-Lo Wong**\*, Chris Bailey\*, ... , Howard Y. Chang, Paul S. Mischel. [A recipe for chaos: Extrachromosomal DNA (ecDNA) and the Hallmarks of Cancer](https://www.cell.com/cell/fulltext/S0092-8674(26)00278-3). _Cell_ (2026).
 
-2. **Ivy Tsz-Lo Wong**\*, Hyerim Yi\*, Bruno Melilo, Ben Cravatt, Howard Y. Chang, Paul S. Mischel. [Targeting extrachromosomal DNA in human cancers](https://www.nature.com/articles/s41573-025-01369-0). _Nature Reviews Drug Discovery_ (2026).
+2. **Ivy Tsz-Lo Wong**\*, Hyerim Yi\*, Bruno Melilo, Benjamin F. Cravatt, Howard Y. Chang, Paul S. Mischel. [Targeting extrachromosomal DNA in human cancers](https://www.nature.com/articles/s41573-025-01369-0). _Nature Reviews Drug Discovery_ (2026).
 
 Education Background
 ======

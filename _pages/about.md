@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Biography
+======
+I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. Paul Mischel at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluoresecnece microscopy, and live cell imaging, my postdoctoral work explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as building tools to detect and discern different cancer amplicon structures.
 
-      I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. Paul Mischel at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluoresecnece microscopy, and live cell imaging, my postdoctoral work explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as building tools to detect and discern different cancer amplicon structures.
-      
-      My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: 1) identifying unique features of ecDNA and understanding the mechanistic basis of ecDNA-driven activities, 2) developing sequencing-based and imaging-based tools to detect and resolve cancer amplicon and ecDNA structures, 3) establishing near-isogenic cell line models for ecDNA studies and adapting FISH-based protocols to detect ecDNAs in human cancer cell lines, neurosphere, organoids and tissue samples.
+My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: 1) identifying unique features of ecDNA and understanding the mechanistic basis of ecDNA-driven activities, 2) developing sequencing-based and imaging-based tools to detect and resolve cancer amplicon and ecDNA structures, 3) establishing near-isogenic cell line models for ecDNA studies and adapting FISH-based protocols to detect ecDNAs in human cancer cell lines, neurosphere, organoids and tissue samples.
 
 Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 
 
@@ -24,7 +25,7 @@ Representative Publications
 Y. Chang. Coordinated inheritance of extrachromosomal DNAs in cancer cells. _Nature_ (2024).
 
 **Review articles**
-1. **Ivy Tsz-Lo Wong***, Chris Bailey*, ... , Howard Y. Chang, Paul S. Mischel. A recipe for chaos: Extrachromosomal DNA (ecDNA) and the Hallmarks of Cancer. _Cell_(2026).
+1. **Ivy Tsz-Lo Wong***, Chris Bailey*, ... , Howard Y. Chang, Paul S. Mischel. A recipe for chaos: Extrachromosomal DNA (ecDNA) and the Hallmarks of Cancer. _Cell_ (2026).
 
 2. **Ivy Tsz-Lo Wong***, Hyerim Yi*, Bruno Melilo, Ben Cravatt, Howard Y. Chang, Paul S. Mischel. Targeting extrachromosomal DNA in human cancers. _Nature Reviews Drug Discovery_ (2026).
 

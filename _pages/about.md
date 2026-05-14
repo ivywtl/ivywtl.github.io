@@ -20,7 +20,9 @@ Representative Publications
 ======
 **Research articles**
 1. Jens Luebeck*, Ted Liefeld*, **Ivy Tsz-Lo Wong***, Edwin Huang*, ... , Paul S. Mischel, Jill Mesirov, Vineet Bafna. AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes. _Nature Methods_ (Accepted in principle) (2026).
+
 2. Siavash Raeisi Dehkordi*, **Ivy Tsz-Lo Wong***, Jing Ni*, ... , Jean Zhao, Paul S. Mischel, Vineet Bafna. Breakage fusion bridge cycles drive high oncogene copy number with moderate intratumoural heterogeneity. _Nature Communications_ (2025).
+
 3. King L. Hung*, Matthew G. Jones*, **Ivy Tsz-Lo Wong***, Ellis J. Curtis*, ... , Paul S. Mischel, Howard
 Y. Chang. Coordinated inheritance of extrachromosomal DNAs in cancer cells. _Nature_ (2024).
 
@@ -31,10 +33,10 @@ Y. Chang. Coordinated inheritance of extrachromosomal DNAs in cancer cells. _Nat
 
 Education Background
 ======
-2017   Doctor of Philosophy, University of Hong Kong
-2015   Visiting Research Student, Kings College London
-2012   Master of Medical Science, University of Hong Kong
-2011   Bachelor of Science (major in biochemistry, double minor in bioengineering and socical science), the Hong Kong University of Science and Technology
+2017   Doctor of Philosophy, University of Hong Kong <br>
+2015   Visiting Research Student, Kings College London <br>
+2012   Master of Medical Science, University of Hong Kong <br>
+2011   Bachelor of Science (major in biochemistry, double minor in bioengineering and socical science), the Hong Kong University of Science and Technology<br>
 
 Teaching Experience
 ======

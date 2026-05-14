@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Biography
+About Me
 ======
 &emsp;&emsp;&emsp;I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluoresecnece microscopy, and live cell imaging, my postdoctoral work explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as building tools to detect and discern different cancer amplicon structures.
 

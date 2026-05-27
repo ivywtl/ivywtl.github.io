@@ -37,6 +37,8 @@ Y. Chang. [Coordinated inheritance of extrachromosomal DNAs in cancer cells](htt
 
 2. **Ivy Tsz-Lo Wong**\*, Hyerim Yi\*, Bruno Melilo, Benjamin F. Cravatt, Howard Y. Chang, Paul S. Mischel. [Targeting extrachromosomal DNA in human cancers](https://www.nature.com/articles/s41573-025-01369-0). _Nature Reviews Drug Discovery_ (2026).
 
+* Asterisk denotes **co-first** authorship
+
 Education Background
 ======
 2017&emsp;&emsp;Doctor of Philosophy, University of Hong Kong <br>

@@ -41,7 +41,7 @@ Y. Chang. [Coordinated inheritance of extrachromosomal DNAs in cancer cells](htt
 
 Education Background
 ======
-2020-Present&emsp;&emsp;Postdoctoral Training, Stanford University, USA
+2020-Present&emsp;&emsp;Postdoctoral Training, Stanford University, USA <br>
 2017&emsp;&emsp;Doctor of Philosophy, University of Hong Kong, Hong Kong <br>
 2015&emsp;&emsp;Visiting Research Student, Kings College London, United Kingdom <br>
 2012&emsp;&emsp;Master of Medical Science, University of Hong Kong, Hong Kong <br>

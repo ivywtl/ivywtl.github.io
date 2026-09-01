@@ -8,7 +8,7 @@ redirect_from:
 ---
 Biography
 ======
-&emsp;&emsp;&emsp;I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluorescence microscopy, and live cell imaging, my research explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as the development of sequencing-based and imaging-based tools to detect and discern different cancer amplicon structures.
+&emsp;&emsp;&emsp;I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluorescence microscopy, and live cell imaging, my research explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as developing sequencing-based and imaging-based tools to detect and discern different cancer amplicon structures.
 
 &emsp;&emsp;&emsp;My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: <br>
 
@@ -20,7 +20,7 @@ Biography
 
 &emsp;&emsp;&emsp;Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 
 
-**Key Research Disciplines**: Cancer Bioloigy, Cancer Genomics, Cytogenetics, Functional Genomics, Advanced Microscopy, Cancer Therapeutics
+**Key Research Disciplines**: Cancer Biology, Genome Biology, Cancer Genetics, Extrachromosomal DNA (ecDNA)
 
 Representative Publications
 ======
@@ -41,10 +41,11 @@ Y. Chang. [Coordinated inheritance of extrachromosomal DNAs in cancer cells](htt
 
 Education Background
 ======
-2017&emsp;&emsp;Doctor of Philosophy, University of Hong Kong <br>
-2015&emsp;&emsp;Visiting Research Student, Kings College London <br>
-2012&emsp;&emsp;Master of Medical Science, University of Hong Kong <br>
-2011&emsp;&emsp;Bachelor of Science, the Hong Kong University of Science and Technology<br>
+2020-Present&emsp;&emsp;Postdoctoral Training, Stanford University, USA
+2017&emsp;&emsp;Doctor of Philosophy, University of Hong Kong, Hong Kong <br>
+2015&emsp;&emsp;Visiting Research Student, Kings College London, United Kingdom <br>
+2012&emsp;&emsp;Master of Medical Science, University of Hong Kong, Hong Kong <br>
+2011&emsp;&emsp;Bachelor of Science, the Hong Kong University of Science and Technology, Hong Kong<br>
 &emsp;&emsp;&emsp;&emsp;(Major in Biochemistry, Double Minor in Bioengineering and Socical Science)
 
 Teaching Experience

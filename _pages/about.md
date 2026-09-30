@@ -8,15 +8,7 @@ redirect_from:
 ---
 Biography
 ======
-&emsp;&emsp;&emsp;I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the mechanistic underpinnings of human cancers, and how we leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. With core expertise in molecular biology, advanced multiplexed fluorescence microscopy, and live cell imaging, my research explores the cancer genome structure-function relationship and their role in shaping tumor evolution, as well as developing sequencing-based and imaging-based tools to detect and discern different cancer amplicon structures.
-
-&emsp;&emsp;&emsp;My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), which is a fundamental mechanism driving oncogene amplification in close to 20% of all human cancer types. My postdoctoral work spans several aspects on ecDNA: <br>
-
-&emsp;&emsp;&emsp;1) Identifying unique features of ecDNA and understanding the mechanistic basis of ecDNA-driven activities, <br>
-
-&emsp;&emsp;&emsp;2) Developing sequencing-based and imaging-based tools to detect and resolve cancer amplicon and ecDNA structures, and <br>
-
-&emsp;&emsp;&emsp;3) Establishing near-isogenic cell line models for ecDNA studies and adapting FISH-based protocols to detect ecDNAs in human cancer cell lines, neurosphere, organoids and tissue samples.
+&emsp;&emsp;&emsp;I am a Basic Life Research Scientist/Postdoctoral Scholar with Dr. [Paul Mischel](https://med.stanford.edu/paulmischellab.html) at Stanford University, affiliated with the Department of Pathology and Sarafan ChEM-H. My general research interest lies in understanding the genome biology of human cancers, and how we can leverage and translate these fundamental principles to devise new therapeutic strategies to benefit cancer patients. My postdoctoral training with Dr. Paul Mischel centers around extrachromosomal DNA (ecDNA), an aggressive class of focal amplification that drives massive oncogene expression in nearly 20% of all human cancer samples. With core expertise in cancer biology, advanced multi-modal fluorescence microscopy, and live cell imaging, my research explores the complex cancer genome structure-function relationship and its role in shaping tumor evolution. I am also actively involved in developing and benchmarking computational and imaging-based tools for ecDNA detection and amplicon structure resolution. 
 
 &emsp;&emsp;&emsp;Click [here](https://profiles.stanford.edu/ivy-tsz-lo-wong?tab=publications) to view my full list of publications. 
 
@@ -25,7 +17,7 @@ Biography
 Representative Publications
 ======
 **Research articles**
-1. Jens Luebeck\*, Ted Liefeld\*, **Ivy Tsz-Lo Wong**\*, Edwin Huang\*, ... , Paul S. Mischel, Jill Mesirov, Vineet Bafna. AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes. _Nature Methods_ (Accepted in principle) (2026).
+1. Jens Luebeck\*, Ted Liefeld\*, **Ivy Tsz-Lo Wong**\*, Edwin Huang\*, ... , Paul S. Mischel, Jill Mesirov, Vineet Bafna. AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes. _Nature Methods_ (In Press) (2026).
 
 2. Siavash Raeisi Dehkordi\*, **Ivy Tsz-Lo Wong**\*, Jing Ni\*, ... , Jean Zhao, Paul S. Mischel, Vineet Bafna. [Breakage fusion bridge cycles drive high oncogene copy number with moderate intratumoural heterogeneity](https://www.nature.com/articles/s41467-025-56670-8). _Nature Communications_ (2025).
 
@@ -41,7 +33,7 @@ Y. Chang. [Coordinated inheritance of extrachromosomal DNAs in cancer cells](htt
 
 Education Background
 ======
-2020-Present&emsp;&emsp;Postdoctoral Training, Stanford University, USA <br>
+2020-Present&emsp;&emsp;Postdoctoral Scholar, Stanford University, USA <br>
 2017&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Doctor of Philosophy, University of Hong Kong, Hong Kong <br>
 2015&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Visiting Research Student, Kings College London, United Kingdom <br>
 2012&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Master of Medical Science, University of Hong Kong, Hong Kong <br>

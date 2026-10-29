@@ -17,7 +17,7 @@ Biography
 Representative Publications
 ======
 **Research articles**
-1. Jens Luebeck\*, Ted Liefeld\*, **Ivy Tsz-Lo Wong**\*, Edwin Huang\*, ... , Paul S. Mischel, Jill Mesirov, Vineet Bafna. AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes. _Nature Methods_ (In Press) (2026).
+1. Jens Luebeck\*, Ted Liefeld\*, **Ivy Tsz-Lo Wong**\*, Edwin Huang\*, ... , Paul S. Mischel, Jill Mesirov, Vineet Bafna. [AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes.](https://www.nature.com/articles/s41592-026-03264-x) _Nature Methods_ (2026).
 
 2. Siavash Raeisi Dehkordi\*, **Ivy Tsz-Lo Wong**\*, Jing Ni\*, ... , Jean Zhao, Paul S. Mischel, Vineet Bafna. [Breakage fusion bridge cycles drive high oncogene copy number with moderate intratumoural heterogeneity](https://www.nature.com/articles/s41467-025-56670-8). _Nature Communications_ (2025).
 
